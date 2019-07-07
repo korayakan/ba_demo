@@ -293,4 +293,4 @@ $RECYCLE.BIN/
 .idea
 ba
 ba_dataset
-saved_model/*.pt
+ba_model.pt
